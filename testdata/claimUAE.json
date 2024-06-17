@@ -1,0 +1,26 @@
+{
+    "TC-1": {
+        "url": "https://test-tatshboportal-uae.tatsh.cloud/",
+        "userName": "VManoukian",
+        "password": "123",
+        "cardNo": "4B69F0B3548E7391",
+        "requestSource": "refId=\"10\"",
+        "admissionDate": "29-Jan-2024",
+        "declarationDate": "29-Jan-2024",
+        "consultationDate": "29-Jan-2024",
+        "fOB": "In-Patient",
+        "provider": "PULSE PROVIDER (Hospital)",
+        "dischargeDate": "29-Jan-2024",
+        "fOC": " Physical Illness ",
+        "causes": " to be specified under assessment ",
+        "specificCauses": " to be specified under assessment ",
+        "treatmentType": "Medical ",
+        "specificAssessment": "J30.9 Allergic rhinitis, unspecified",
+        "serviceItemCode": "87040",
+        "QtyClaimed": "1",
+        "UnitPriceClaimed": "100",
+        "Unit Price Claimed": "1",
+        "Unit Price Approved": "50",
+        "deductionReason": "Additional Consultation"
+    }
+}

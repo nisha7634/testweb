@@ -1,0 +1,118 @@
+{
+    "TC-1651": {
+        "BatchID": "1845",
+        "cardNo": "E1E4DF4A5DD1955C"
+    },
+    "TC-1654": {
+        "country": "Germany"
+    },
+    "TC-1655": {
+        "text": "test"
+    },
+    "TC-1656": {
+        "IBANNumber": "DE89370400440532013000"
+    },
+    "TC-1657": {
+        "accountName": "AutoTest"
+    },
+    "TC-1658": {
+        "IBANNumber": "DE89370400440532013000"
+    },
+    "TC-1659": {
+        "IBANNumber": "DE89370400440532013000",
+        "countryError": "Country is required.",
+        "accountNameError": "Account Name is required.",
+        "currencyError": "Currency is required."
+    },
+    "TC-1660": {
+        "IBANNumber": "DE89370400440532013000",
+        "IBANNumberLength": "22"
+    },
+    "TC-1662": {
+        "invalidIBANNumber": "DE893704004405320130"
+    },
+    "TC-1663": {
+        "invalidIBANNumber": "DE893704004405320130000"
+    },
+    "TC-1664": {
+        "IBANNumber": "DE89370400440532013000",
+        "country": "Germany",
+        "currency": "EUR",
+        "accountName": "AutoTest"
+    },
+    "TC-1665": {
+        "IBANNumber": "DE89370400440532013000",
+        "country": "Germany",
+        "currency": "EUR",
+        "accountName": "AutoTest"
+    },
+    "TC-1667": {
+        "IBANNumber": "DE89370400440532013000",
+        "country": "Germany"
+    },
+    "TC-1668": {
+        "IBANNumber": "DE89370400440532013000",
+        "currency": "EUR"
+    },
+    "TC-1669": {
+        "IBANNumber": "DE89370400440532013000",
+        "IBANError": "IBAN is required."
+    },
+    "TC-1670": {
+        "BatchID": "1845",
+        "cardNo": "E1E4DF4A5DD1955C"
+    },
+    "TC-1671": {
+        "BatchID": "1845",
+        "cardNo": "E1E4DF4A5DD1955C"
+    },
+    "TC-1672": {
+        "BatchID": "1845",
+        "cardNo": "E1E4DF4A5DD1955C"
+    },
+    "TC-1673": {
+        "BatchID": "1845",
+        "cardNo": "E1E4DF4A5DD1955C"
+    },
+    "TC-1674": {
+        "BatchID": "1845",
+        "BankTransfer": "Bank Transfer ",
+        "ChequeDelivery": "Cheque Delivery "
+    },
+    "TC-1678": {
+        "IBANNumber": "DE89370400440532013000",
+        "country": "Greece"
+    },
+    "TC-1683": {
+        "IBANNumber": "DE89370400440532013000",
+        "IBANError": "IBAN is required."
+    },
+    "TC-1685": {
+        "IBANNumber": "DE89370400440532013000",
+        "country": "Germany",
+        "currency": "EUR",
+        "accountName": "AutoTest"
+    },
+    "TC-1686": {
+        "IBANNumber": "DE89370400440532013000",
+        "country": "Germany",
+        "currency": "EUR",
+        "accountName": "AutoTest"
+    },
+    "TC-1687": {
+        "IBANNumber": "DE89370400440532013000",
+        "country": "Germany",
+        "currency": "EUR",
+        "accountName": "AutoTest"
+    },
+    "TC-1688": {
+        "IBANNumber": "DE89370400440532013000",
+        "country": "Germany",
+        "currency": "EUR",
+        "accountName": "AutoTest",
+        "UpdatedAccountName": "NewAutoName"
+    },
+    "TC-1699": {
+        "claimNumber": "T0000007501/1"
+    }
+}

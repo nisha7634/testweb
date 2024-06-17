@@ -1,0 +1,39 @@
+{
+    "TC-1": {
+        "url": "https://test-tatshboportal-eu.tatsh.cloud/",
+        "userName": "QAPayghan",
+        "password": "Test@1257",
+        "cardNo": "E1E4DF4A5DD1955C",
+        "requestSource": "refId=\"10\"",
+        "admissionDate": "01-Jan-2024",
+        "declarationDate": "02-Jan-2024",
+        "consultationDate": "01-Jan-2024",
+        "fOB": " In-Patient ",
+        "provider": "Hospital Test Provider",
+        "dischargeDate": "02-Jan-2024",
+        "fOC": " Physical Illness ",
+        "causes": " to be specified under assessment ",
+        "specificCauses": " to be specified under assessment ",
+        "treatmentType": "Medical ",
+        "specificAssessment": "J30.9 Allergic rhinitis, unspecified",
+        "serviceItemCode": "87040",
+        "QtyClaimed": "1",
+        "UnitPriceClaimed": "100",
+        "Unit Price Claimed": "1",
+        "UnitPriceApproved": "50",
+        "deductionReason": "Additional Consultation",
+        "claimRef": "T0000007598/1",
+        "ClaimStatus": "Claim Status",
+        "invalidCardNumber": "E4DF4A5DD1955C",
+        "invalidCardNumberMsg": "No data available"
+    },
+    "TestData": {
+        "claimRef": "T0000007598/1",
+        "ClaimStatus": "Claim Status",
+        "invalidCardNumber": "E4DF4A5DD1955C",
+        "invalidCardNumberMsg": "No data available",
+        "unpaidPremium": "Unpaid Premium",
+        "medicalFileTitleTxt": "Medical File",
+        "documentTitleTxt": "Documents"
+    }
+}

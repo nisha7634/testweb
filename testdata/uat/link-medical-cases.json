@@ -1,0 +1,79 @@
+{
+    "TC-sysmptom-1": {
+        "expectedData": "Search Claim",
+        "SearchClaimPageTitle": "Search Claim",
+        "OpenBatchTitle": "Open Batch",
+        "mobileClaimNo": "BP0000000029",
+        "claimReference": "Claim Reference",
+        "BatchID": "1845",
+        "editCLaimPageTitle": "Edit Reimbursement Processing Claim"
+    },
+    "TC-sysmptom-2": {
+        "expectedData": "Search Claim",
+        "SearchClaimPageTitle": "Search Claim",
+        "OpenBatchTitle": "Open Batch",
+        "mobileClaimNo": "BP0000000029",
+        "claimReference": "Claim Reference",
+        "BatchID": "1845",
+        "editCLaimPageTitle": "Edit Reimbursement Processing Claim"
+    },
+ 
+    "TC-sysmptom-3": {
+        "expectedData": "Search Claim",
+        "SearchClaimPageTitle": "Search Claim",
+        "mobileClaimNo": "BP0000000029",
+        "claimReference": "Claim Reference",
+        "claimBeneficiary": "Beneficiary & Coverage Details"
+    },
+
+    "TC-sysmptom-4": {
+        "expectedData": "Search Claim",
+        "SearchClaimPageTitle": "Search Claim",
+        "mobileClaimNo": "BP0000000029",
+        "claimReference": "Claim Reference",
+        "medicalCaseDetails": "Medical Case Details"
+    },
+    "TC-sysmptom-5": {
+        "expectedData": "Search Claim",
+        "SearchClaimPageTitle": "Search Claim",
+        "mobileClaimNo": "BP0000000029",
+        "claimReference": "Claim Reference",
+        "medicalCase": "Medical Case"
+    },
+    "TC-sysmptom-11": {
+        "OpenBatchTitle": "Open Batch",
+        "mobileClaimNo": "BP0000000029",
+        "BatchID": "1845",
+        "FOC": "Accidental Injury"
+    },
+    "TC-sysmptom-12": {
+        "OpenBatchTitle": "Open Batch",
+        "mobileClaimNo": "BP0000000029",
+        "BatchID": "1845",
+        "Cause": "Malignancy"
+    },
+    "TC-sysmptom-13": {
+        "OpenBatchTitle": "Open Batch",
+        "mobileClaimNo": "BP0000000029",
+        "BatchID": "1845",
+        "SpecificAssessment": "Accident"
+    },
+    "TC-sysmptom-15": {
+        "expectedData": "Search Claim",
+        "SearchClaimPageTitle": "Search Claim",
+        "OpenBatchTitle": "Open Batch",
+        "mobileClaimNo": "BP0000000029",
+        "claimReference": "Claim Reference",
+        "BatchID": "1845",
+        "ExportToXls": " Export to Excel "
+    },
+    "TC-sysmptom-16": {
+        "expectedData": "Search Claim",
+        "SearchClaimPageTitle": "Search Claim",
+        "OpenBatchTitle": "Open Batch",
+        "mobileClaimNo": "BP0000000029",
+        "claimReference": "Claim Reference",
+        "BatchID": "1845",
+        "TreatmentType": "Medical"
+    }
+}

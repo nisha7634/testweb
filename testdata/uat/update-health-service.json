@@ -1,0 +1,64 @@
+{
+    "TC-1585": {
+        "serviceItemCode": "DT1",
+        "seviceDescription": " Dental Treatment (Zahnbehandlung) ",
+        "specificAssessment": " J30.9 Allergic rhinitis, unspecified ",
+        "HealthProvider": "Hospital Test Provider"
+    },
+    "TC-1588": {
+        "serviceItemCode": "DT1",
+        "seviceDescription": "Dental Treatment (Zahnbehandlung)"
+    },
+    "TC-1589": {
+        "serviceItemCode": "Lab1",
+        "seviceDescription": "Laboratory Bill (Laborrechnung)"
+    },
+    "TC-1590": {
+        "serviceItemCode": "Med1",
+        "seviceDescription": "Medication (Medikamente)"
+    },
+    "TC-1591": {
+        "serviceItemCode": "Rad1",
+        "seviceDescription": "Radiology (Radiologie)"
+    },
+    "TC-1592": {
+        "serviceItemCode": "Aids",
+        "seviceDescription": "Aids (Hilfsmittel)"
+    },
+    "TC-1593": {
+        "serviceItemCode": "IP1",
+        "seviceDescription": "Inpatient Treatment (Stationare Behandlung)"
+    },
+    "TC-1594": {
+        "serviceItemCode": "TE1",
+        "seviceDescription": "Travel Expenses (Fahrtkosten)"
+    },
+    "TC-1595": {
+        "serviceItemCode": "TC1",
+        "seviceDescription": "Transference costs / funeral costs (Uberfuhrungskosten / Bestattungskosten)"
+    },
+    "TC-1596": {
+        "serviceItemCode": "Psy1",
+        "seviceDescription": "Psychotherapy (Psychotherapie)"
+    },
+    "TC-1597": {
+        "serviceItemCode": "PG1",
+        "seviceDescription": "Pregnancy (Schwangerschaft)"
+    },
+    "TC-1598": {
+        "serviceItemCode": "PB1",
+        "seviceDescription": "Premature Birth (Fruhgeburt)"
+    },
+    "TC-1599": {
+        "serviceItemCode": "MB1",
+        "seviceDescription": "Medical Bill (Arztrechnung)"
+    },
+    "TC-1600": {
+        "serviceItemCode": "Rem1",
+        "seviceDescription": "Remedies (Heilmittel)"
+    },
+    "TC-1601": {
+        "serviceItemCode": "SF1",
+        "seviceDescription": "Service Fees (Service Fee)"
+    }
+}

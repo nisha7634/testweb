@@ -1,0 +1,44 @@
+{
+    "TC-Login-2": {
+        "url": "https://test-tatshboportal-eu.tatsh.cloud/",
+        "userNameInput": "QAPayghan",
+        "passwordInput": "Test@1234",
+        "expectedPageTitle1": "IRIS",
+        "expectedPageTitle": "IRIS",
+        "claimsDashboardTitle":"IRIS"
+    },
+    "TC-Login-3": {
+        "url": "https://test-tatshboportal-eu.tatsh.cloud/",
+        "userNameInput": "QAPayghan",
+        "passwordInput": "DemoPass!CA1rr",
+        "errorMessage": "The credentials you used did not work. Please enter new credentials."
+    },
+    "TC-Login-4": {
+        "url": "https://test-tatshboportal-eu.tatsh.cloud/",
+        "userNameInput": "QAPayghan",
+        "passwordInput": "DemoPass!CA1rr",
+        "errorMessage": "The credentials you used did not work. Please enter new credentials."
+    },
+    "TC-Login-5": {
+        "url": "https://test-tatshboportal-eu.tatsh.cloud/",
+        "userNameInput": "QAPayghan",
+        "passwordInput": "DemoPass!CA1",
+        "errorMessage": "The credentials you used did not work. Please enter new credentials."
+    },
+    "TC-Login-6": {
+        "url": "https://test-tatshboportal-eu.tatsh.cloud/",
+        "userNameInput": "DemoSuperUserrr"
+    },
+    "TC-Login-7": {
+        "url": "https://test-tatshboportal-eu.tatsh.cloud/",
+        "userNameInput": "DemoSuperUser",
+        "passwordInput": "DemoPass!CA1"
+    },
+    "TC-Login-8": {
+        "url": "https://test-tatshboportal-eu.tatsh.cloud/",
+        "userNameInput": "QAPayghan",
+        "passwordInput": "Test@125",
+        "expectedPageTitle": "IRIS | Platform"
+    }}
+    
+    

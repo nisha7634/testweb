@@ -1,0 +1,5 @@
+allure-results/
+allure-report/
+allure/
+test-results/
+playwright-report/

@@ -1,0 +1,15 @@
+{
+    "TestData": {
+        "url": "https://test-tatshboportal-eu.tatsh.cloud/",
+        "userName": "QAPayghan",
+        "password": "Test@1257",
+        "cardNo": "E1E4DF4A5DD1955C",
+        "payer": "AWP P&C",
+        "lblValue": "test",
+        "invalidPayer": "testing123",
+        "errorMsgForInvalidPayer": "Payer name was not found!",
+        "claimCountValue": "5",
+        "invalidClaimCount": "G",
+        "erroMsgInvalidCount": " Please enter a value greater than zero "
+    }
+}
